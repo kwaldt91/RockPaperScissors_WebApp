@@ -1,0 +1,19 @@
+#continue
+{
+	visibility: hidden;
+}
+
+#playAgain
+{
+	visibility: hidden;
+}
+
+#logTable
+{
+	visibility: hidden;
+}
+
+table, th, td 
+{
+  border: 1px solid black;
+}
